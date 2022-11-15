@@ -13,13 +13,11 @@
   "files": [
     "vtracer_webapp_bg.wasm",
     "vtracer_webapp.js",
-    "vtracer_webapp_bg.js",
     "vtracer_webapp.d.ts"
   ],
-  "module": "vtracer_webapp.js",
+  "main": "vtracer_webapp.js",
   "homepage": "http://www.visioncortex.org/vtracer",
   "types": "vtracer_webapp.d.ts",
-  "sideEffects": false,
   "keywords": [
     "svg",
     "computer-graphics"
